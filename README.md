@@ -12,3 +12,6 @@ Para subir y trabajar todo lo relativo al reto del HackMX, 2024.
 
 ## Reto Thales
 - Visualización de datos reales (delitos) en mapa, análisis de datos y predicción (DL, Decision Trees, forecasting, etc).
+
+## Reto MIT
+- Solución con IA para rastrear ventas e inventario de mini-tiendas.
