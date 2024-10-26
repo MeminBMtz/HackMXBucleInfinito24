@@ -1,7 +1,7 @@
-# HackMXBucleInfinito24
+# HackMXBucleInfinito24 : Crimetrics AI
 Para subir y trabajar todo lo relativo al reto del HackMX, 2024.
 
-## Reto Thales : Análisis y Visualización de Datos Abiertos en Mapa
+## Reto Thales : Crimetrics AI
 
 ### Objetivos.
 Aplicar  nuevas tecnologías como el Data Analysis, Big Data y Prediction en seguridad y combate al crimen para el bien de la ciudadanía.
