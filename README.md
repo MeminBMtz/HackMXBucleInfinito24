@@ -2,7 +2,6 @@
 Para subir y trabajar todo lo relativo al reto del HackMX, 2024.
 
 ## Reto Thales : Análisis y Visualización de Datos Abiertos en Mapa
-- Visualización de datos reales (delitos) en mapa, análisis de datos y predicción (DL, Decision Trees, forecasting, etc).
 
 ### Objetivos.
 Aplicar  nuevas tecnologías como el Data Analysis, Big Data y Prediction en seguridad y combate al crimen para el bien de la ciudadanía.
