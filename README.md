@@ -8,7 +8,7 @@ Para subir y trabajar todo lo relativo al reto del HackMX, 2024.
 Aplicar  nuevas tecnologías como el Data Analysis, Big Data y Prediction en seguridad y combate al crimen para el bien de la ciudadanía.
 
 ### Descripción
-Laa Fiscalía de la Ciudad de México publica en internet datos abiertos sobre carpetas de investigación, compartiendo así la cantidad y tipo de delitos que se investigan en la CDMX. El link es: https://datos.cdmx.gob.mx/dataset/carpetas-de- investigacion-fgj-de-la-ciudad-de-mexico
+Laa Fiscalía de la Ciudad de México publica en internet datos abiertos sobre carpetas de investigación, compartiendo así la cantidad y tipo de delitos que se investigan en la CDMX. El link es: https://datos.cdmx.gob.mx/dataset/carpetas-de-investigacion-fgj-de-la-ciudad-de-mexico
 
 Estos datos incluyen las columnas de fecha, tipo de delito y localización (latitud y longitud), y abarcan un periodo de 4 años.
 
